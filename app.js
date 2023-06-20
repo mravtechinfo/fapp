@@ -20,10 +20,10 @@ const totalSeats = {
 
 // MySQL database configuration
 const dbConfig = {
-  host: '127.0.0.1',
-  user: 'root',
-  password: '6789',
-  database: 'flurnAssignment'
+  host: 'flurnproject.mysql.database.azure.com',
+  user: 'mravtechinfo',
+  password: 'password2023#',
+  database: 'assign'
 };
 
 // Create a MySQL pool
